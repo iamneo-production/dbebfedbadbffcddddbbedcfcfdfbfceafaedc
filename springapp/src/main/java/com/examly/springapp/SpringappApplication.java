@@ -1,13 +1,13 @@
-package com.example.springapp;
+package com.example.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ToListApplication {
+public class SpringappApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ToListApplication.class, args);
+		SpringApplication.run(SpringappApplication.class, args);
 	}
 
 }
